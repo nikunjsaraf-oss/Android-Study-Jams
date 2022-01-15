@@ -30,6 +30,6 @@ This project proposes the solution as a "Chatting application in Kotlin". This p
 ## Application link and Future Scope :
  The app is currently in beta testing with limited number of users. You can access the app at: 
  <br>
- [Github release page](link)
+ [Github release page](https://github.com/nikunjsaraf-oss/Chatter-with-Kotlin/releases/tag/release)
  <br>
 Once the app is finished the testing part, I plan to communicate with various companies regarding the app idea and add more features such as image and video sharing in the app.
