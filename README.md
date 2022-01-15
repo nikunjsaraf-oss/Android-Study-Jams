@@ -10,11 +10,14 @@ Over time, as companies in the world face many issues in terms of their own priv
 
 This project proposes the solution as a "Chatting application in Kotlin". This project is designed in a way where all the employees in the company can send messages regarding all the confidential data of anything without any fear of data leakage.
 
-<img alt"sample images" src""><br>
-<img alt"sample images" src""><br>
-<img alt"sample images" src""><br>
-<img alt"sample images" src""><br>
-<img alt"sample images" src""><br>
+![sample](https://github.com/nikunjsaraf-oss/Android-Study-Jams/blob/main/Screenshot%202022-01-15%20235108.png?raw=true)
+![sample](https://github.com/nikunjsaraf-oss/Android-Study-Jams/blob/main/Screenshot%202022-01-15%20235125.png?raw=true)
+<br>
+![sample](https://github.com/nikunjsaraf-oss/Android-Study-Jams/blob/main/1.png?raw=true)
+![sample](https://github.com/nikunjsaraf-oss/Android-Study-Jams/blob/main/Screenshot%202022-01-15%20235159.png?raw=true)
+<br>
+![sample](https://github.com/nikunjsaraf-oss/Android-Study-Jams/blob/main/2.png?raw=true)
+<br>
 
 ## Functionality and Concepts used:
 
